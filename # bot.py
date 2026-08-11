@@ -10,8 +10,8 @@ import os
 import shutil
 
 # ==================== 设置你的信息 ====================
-BOT_TOKEN = "在这里填入你的Bot Token"   # ← 改成第一步创建机器人时拿到的 Token
-ADMIN_IDS = [123456789]                 # ← 改成第二步获取的 Telegram ID
+BOT_TOKEN = "8778300656:AAEqVbb_vy5alnbDpkbBzdqvIK2aCAWTKQs"   # ← 改成第一步创建机器人时拿到的 Token
+ADMIN_IDS = [7616122961]                 # ← 改成第二步获取的 Telegram ID
 
 DB_NAME = "attendance_bot.db"
 
